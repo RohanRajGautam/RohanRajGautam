@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohan - aka [RRG][website] 👋
 
-[![Website](https://img.shields.io/website?label=RRG.COM.NP&style=for-the-badge&url=https%3A%2F%2FRohanGautam.com.np)](https://rohangautam.com.np)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RohanRajGautam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frohanrajgautam&screen_name=rohanrajgautam)
+[![Website](https://img.shields.io/website?label=RRG.COM.NP&style=for-the-badge&url=https%3A%2F%2FRohanGautam.com.np)](https://rrg.com.np)
+[![Website](https://img.shields.io/website?label=ROHANGAUTAM.COM.NP&style=for-the-badge&url=https%3A%2F%2FRohanGautam.com.np)](https://rohangautam.com.np)
 
 ## I'm an aspiring Developer, and Learner!
 

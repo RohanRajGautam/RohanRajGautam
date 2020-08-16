@@ -1,49 +1,47 @@
-### Hi there, I'm Rohan - aka [RRG][website] 👋
+<h1 align="center">Hello 👋, I'm Rohan</h1>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
-[![Website](https://img.shields.io/website?label=RRG.COM.NP&style=for-the-badge&url=https%3A%2F%2FRohanGautam.com.np)](https://rrg.com.np)
-[![Website](https://img.shields.io/website?label=ROHANGAUTAM.COM.NP&style=for-the-badge&url=https%3A%2F%2FRohanGautam.com.np)](https://rohangautam.com.np)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> </p>
 
-## I'm an aspiring Developer, and Learner!
+- 🔭 I’m currently working on **React**
 
-- 🔭 I’m currently focusing on a React!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning **MERN**
+
 - 🥅 2020 Goals: Learn new things as much as i can
-- ⚡ Fun fact: I love good music and movies.
 
-### Connect with me:
+- 👨‍💻 All of my projects are available in [here](https://rohangautam.com.np/work.html)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📝 I occasionally write articles on: [RRG](https://www.rrg.com.np/)
+
+- 📫 How to reach me: **rohanrajgautam@gmail.com**
+
+- ⚡ Fun fact: **I love good music and movies.**
 
 <br />
-
+---
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Gatsby" width="26px" src="https://simpleicons.org/icons/redux.svg" />][website]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/></p>
+<br>
+---
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&layout=compact&hide=html" alt="rohanrajgautam" /></p>
+<br>
+---
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanrajgautam&show_icons=true" alt="rohanrajgautam" /></p>
 
 ---
 
-[website]: https://rohangautam.com.np/
-[twitter]: https://twitter.com/rohanrajgautam
-[facebook]: https://www.facebook.com/rohanrajgautam
-[instagram]: https://www.instagram.com/iamrrg/
-[linkedin]: https://www.linkedin.com/in/rohanrajgautam/
+<br/>
+
+### Connect with me:
+
+<br/>
+
+<p align="left" style="display:flex, align-items:space-between">
+<a href="https://twitter.com/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohanrajgautam" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohanrajgautam" height="30" width="30" /></a>
+<a href="https://fb.com/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rohanrajgautam" height="30" width="30" /></a>
+<a href="https://instagram.com/iamrrg" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamrrg" height="30" width="30" /></a>
+</p>

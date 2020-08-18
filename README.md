@@ -3,7 +3,9 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> 
+</p>
 
 <br/>
 
@@ -37,11 +39,9 @@
 
 ### Connect with me:
 
-<br/>
 
-<p align="left">
-<a href="https://twitter.com/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rohanrajgautam" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohanrajgautam" height="30" width="30" /></a>
-<a href="https://fb.com/rohanrajgautam" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rohanrajgautam" height="30" width="30" /></a>
-<a href="https://instagram.com/iamrrg" target="blank"><img align="center" style="margin-right:8px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamrrg" height="30" width="30" /></a>
-</p>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohangautam.com.np)
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.com/rohanrajgautam)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rohanrajgautam)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohanrajgautam)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/iamrrg)

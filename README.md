@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Front-end Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 🥅 2020 Goals: Learn new things as much as i can
 

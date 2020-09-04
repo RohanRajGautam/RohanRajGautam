@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rohan</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate web developer from Nepal</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🥅 2020 Goals: Learn new things as much as i can
 

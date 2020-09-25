@@ -29,7 +29,7 @@
 
 <h3 style="marginBottom:10px" align="left">Languages and Tools: </h3>
 <br/>
-<p align="left">
+<p align="left" style="marginBottom:10px">
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code>

@@ -55,7 +55,7 @@
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&layout=compact&hide=html&theme=vue-dark" alt="rohanrajgautam" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&hide=html&theme=vue-dark" alt="rohanrajgautam" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanrajgautam&show_icons=true&theme=vue-dark&hide=issues" alt="rohanrajgautam" />
 
 

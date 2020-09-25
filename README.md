@@ -7,6 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> 
 </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <br/>
 
 - 🔭 I’m currently working on **React**
@@ -25,7 +27,7 @@
 
 <br />
 
-<h3 style="marginBottom:10px">Languages and Tools: </h3>
+<h3 style="marginBottom:10px" align="left">Languages and Tools: </h3>
 <br/>
 <p align="left">
   <code>
@@ -51,10 +53,9 @@
   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/>
   </code>
 </p>
-<br>
-<br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&layout=compact&hide=html&theme=vue-dark" alt="rohanrajgautam" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&layout=compact&hide=html&theme=vue-dark" alt="rohanrajgautam" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanrajgautam&show_icons=true&theme=vue-dark&hide=issues" alt="rohanrajgautam" />
 
 

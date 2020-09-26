@@ -21,7 +21,7 @@
 
 - 📝 I occasionally write articles on: [RRG](https://www.rohanrajgautam.com.np/blogs)
 
-- 📫 How to reach me: **rohanrajgautam@gmail.com**
+- 📫 How to reach me: **rohangautamdev@gmail.com**
 
 - ⚡ Fun fact: **I love good music and movies.**
 

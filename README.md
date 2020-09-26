@@ -17,9 +17,9 @@
 
 - 🥅 2020 Goals: Learn new things as much as i can
 
-- 👨‍💻 All of my projects are available in [here](https://rohangautam.com.np/work.html)
+- 👨‍💻 All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
 
-- 📝 I occasionally write articles on: [RRG](https://www.rrg.com.np/)
+- 📝 I occasionally write articles on: [RRG](https://www.rohanrajgautam.com.np/blogs)
 
 - 📫 How to reach me: **rohanrajgautam@gmail.com**
 
@@ -64,7 +64,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="rrg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohangautam.com.np)
+[<img align="left" alt="rrg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohanrajgautam.com.np)
 [<img align="left" alt="rrg | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.com/rohanrajgautam)
 [<img align="left" alt="rrg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rohanrajgautam)
 [<img align="left" alt="rrg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohanrajgautam)

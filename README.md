@@ -51,6 +51,7 @@
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="gastby" width="40" height="40"/></code>
 </p>
 
 

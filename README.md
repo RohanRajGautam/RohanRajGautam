@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django Framework**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 

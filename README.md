@@ -29,6 +29,8 @@
 
 <h3 style="marginBottom:10px" align="left">Languages and Tools: </h3>
 <br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&hide=html,css&theme=vue-dark&layout=compact" alt="rohanrajgautam" />
 <p align="left" style="marginBottom:10px">
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
   <code><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
@@ -56,7 +58,6 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&hide=html,css&theme=vue-dark&layout=compact" alt="rohanrajgautam" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanrajgautam&show_icons=true&theme=vue-dark&hide=issues" alt="rohanrajgautam" />
 
 

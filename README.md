@@ -68,7 +68,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="rrg" width="22px" src="https://img.icons8.com/wired/64/000000/domain.png" />](https://rohanrajgautam.com.np)
+[<img align="left" alt="rrg" width="22px" src="https://img.icons8.com/wired/64/000000/domain.png" />](https://www.rohanrajgautam.com.np)
 [<img align="left" alt="rrg | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.com/rohanrajgautam)
 [<img align="left" alt="rrg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rohanrajgautam)
 [<img align="left" alt="rrg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohanrajgautam)

@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
 
-- 📝 I occasionally write articles on: [RRG](https://www.rohanrajgautam.com.np/blog)
+- 📝 I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
 
 - 📫 How to reach me: **rohangautamdev@gmail.com**
 

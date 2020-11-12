@@ -55,6 +55,7 @@
   <code><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="gastby" width="40" height="40"/></code>
   <code><img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="python" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="python" width="40" height="40"/></code>
 </p>
 
 

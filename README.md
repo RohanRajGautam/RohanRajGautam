@@ -11,9 +11,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Python** Django
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Mobile app development**
 
 - 🥅 2020 Goals: Learn new things as much as i can
 

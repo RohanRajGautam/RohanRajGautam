@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Mobile app development**
+- 🌱 I’m currently learning **Python**
 
 - 🥅 2020 Goals: Learn new things as much as i can
 

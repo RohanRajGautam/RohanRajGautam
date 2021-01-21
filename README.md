@@ -15,10 +15,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🥅 2020 Goals: Learn new things as much as i can
+- 🥅 2021 Goals: Learn new things as much as i can
 
 - 👨‍💻 All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
-
 - 📝 I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
 
 - 📫 How to reach me: **rohangautamdev@gmail.com**

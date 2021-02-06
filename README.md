@@ -33,7 +33,7 @@
 <p align="left" style="marginBottom:10px">
   <code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></code>
-  <code><img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="35" height="30"/></code>
+  <code><img src="https://material-ui.com/static/logo.png" alt="material-ui" width="35" height="30"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/></code>

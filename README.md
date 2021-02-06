@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NextJS**
 
 - 🥅 2021 Goals: Learn new things as much as i can
 

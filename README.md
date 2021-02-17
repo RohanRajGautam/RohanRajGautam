@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Frontend Spectrum**
 
 - 🌱 I’m currently learning **NextJS**
 

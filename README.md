@@ -29,7 +29,7 @@
 <h3 style="marginBottom:10px" align="left">Languages and Tools: </h3>
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&hide=html,css&theme=vue-dark&layout=compact" alt="rohanrajgautam" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrajgautam&hide=html,css&theme=vue-dark&layout=compact&langs_count=6" alt="rohanrajgautam" />
 <p align="left" style="marginBottom:10px">
   <code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></code>

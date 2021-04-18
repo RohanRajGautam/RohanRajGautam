@@ -11,16 +11,17 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Frontend Spectrum**
+- 🔭  I’m currently working on **Frontend Spectrum**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱  I’m currently learning **React Native**
 
-- 🥅 2021 Goals: Learn new things as much as i can
+- 🥅  2021 Goals: Learn new things as much as i can
 
-- 👨‍💻 All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
-- 📝 I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
+- 👨‍💻  All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
 
-- 📫 How to reach me: **rohangautamdev@gmail.com**
+- 📝  I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
+
+- 📫  How to reach me: **rohangautamdev@gmail.com**
 
 - ⚡ Fun fact: **I love good music and movies.**
 

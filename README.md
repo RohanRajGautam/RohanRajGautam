@@ -13,7 +13,7 @@
 
 - 🔭  I’m currently working on **Frontend Spectrum**
 
-- 🌱  I’m currently learning **React Native**
+- 🌱  I’m currently learning **Nest JS**
 
 - 🥅  2021 Goals: Learn new things as much as i can
 

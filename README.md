@@ -21,7 +21,7 @@
 
 - 📝  I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
 
-- 📫  How to reach me: **rohangautamdev@gmail.com**
+- 📫  How to reach me: **rohanrajgautam@gmail.com**
 
 - ⚡ Fun fact: **I love good music and movies.**
 

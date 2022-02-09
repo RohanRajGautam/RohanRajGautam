@@ -4,18 +4,18 @@
 <br/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" /> 
+<img src="https://komarev.com/ghpvc/?username=rohanrajgautam" alt="rohanrajgautam" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br/>
 
-- 🔭  I’m currently working on **Frontend Spectrum**
+- 🔭  I’m currently working on **CIBER: Cyber Security and Artificial Intelligence Tool**
 
-- 🌱  I’m currently learning **Nest JS**
+- 🌱  I’m currently learning **Python**
 
-- 🥅  2021 Goals: Learn new things as much as i can
+- 🥅  2022 Goals: Learn new things as much as i can
 
 - 👨‍💻  All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
 

@@ -15,7 +15,7 @@
 
 - 🌱  I’m currently learning **Python**
 
-- 🥅  2022 Goals: Learn new things as much as i can
+- 🥅  2023 Goals: Learn new things as much as i can
 
 - 👨‍💻  All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
 

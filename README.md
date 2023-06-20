@@ -11,17 +11,17 @@
 
 <br/>
 
-- 🔭  I’m currently working on **Backend Development with Django**
+- 🔭  I’m currently working on **Mobile Development with React Native**
 
-- 🌱  I’m currently learning **Python**
+- 🌱  I’m currently learning **React Native**
 
-- 🥅  2023 Goals: Learn new things as much as i can
+- 🥅  2023 Goals: Learn new things as much as I can
 
-- 👨‍💻  All of my projects are available in [here](https://www.rohanrajgautam.com.np/projects/)
+- 👨‍💻  All of my projects are available [here](https://www.rohanrajgautam.com.np/projects/)
 
 - 📝  I occasionally write blogs in: [here](https://www.rohanrajgautam.com.np/blog)
 
-- 📫  How to reach me: **rohangautamdev@gmail.com**
+- 📫  How to reach me: **hi@rrg.com.np**
 
 - ⚡ Fun fact: **I love good music and movies.**
 
